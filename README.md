@@ -1,4 +1,4 @@
-# Animation Display Appliaction - *CS378 Fall 2022*
+# Animation Display Application - *CS378 Fall 2022*
 Cross-platform mobile application developed in Flutter/Dart. This application
 is a showcase of different implicit/explicit animations possible in Flutter.
 Currently designed to be displayed in landscape, the application displays a
